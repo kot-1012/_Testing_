@@ -1,0 +1,5 @@
+url: https://test-stand.gb.ru/login
+browser: chromedriver.exe
+username: TestKot
+password: 73676d20a6
+sleep_time: 3
