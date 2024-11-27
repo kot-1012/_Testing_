@@ -1,0 +1,11 @@
+'2024-11-19 10:38:19' [    INFO] ====== WebDriver manager ======
+'2024-11-19 10:38:20' [    INFO] Get LATEST chromedriver version for google-chrome
+'2024-11-19 10:39:23' [    INFO] Get LATEST chromedriver version for google-chrome
+'2024-11-19 10:39:23' [    INFO] Get LATEST chromedriver version for google-chrome
+'2024-11-19 10:39:24' [    INFO] WebDriver version 131.0.6778.69 selected
+'2024-11-19 10:39:24' [    INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.69/linux64/chromedriver-linux64.zip
+'2024-11-19 10:39:24' [    INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.69/linux64/chromedriver-linux64.zip
+'2024-11-19 10:39:24' [    INFO] Driver downloading response is 200
+'2024-11-19 10:39:26' [    INFO] Get LATEST chromedriver version for google-chrome
+'2024-11-19 10:39:26' [    INFO] Driver has been saved in cache [/home/kot-vm/.wdm/drivers/chromedriver/linux64/131.0.6778.69]
+'2024-11-19 10:39:28' [    INFO] Test 1 starting
